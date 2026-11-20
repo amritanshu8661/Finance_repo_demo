@@ -1,0 +1,7 @@
+{
+  "kind": "financials",
+  "rows": [
+    { "period": "2024-12-31", "revenue": 1000000, "netIncome": 100000, "assets": 1500000, "liabilities": 600000, "equity": 900000 },
+    { "period": "2025-12-31", "revenue": 1200000, "netIncome": 144000, "assets": 1700000, "liabilities": 650000, "equity": 1050000 }
+  ]
+}
